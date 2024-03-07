@@ -1,0 +1,56 @@
+.navbar {
+    background-color: #000; /* Black background color */
+  }
+  
+  .navbar-brand {
+    color: #e0b90b; /* White text color */
+  }
+  
+  .navbar-nav .nav-link {
+    color: #128999; /* White text color */
+  }
+  
+  .navbar-nav .nav-link:hover,
+  .navbar-nav .nav-link:focus {
+    color: #ccc; /* Light gray text color on hover/focus */
+  }
+  
+  .dropdown-menu {
+    background-color: #000; /* Black background color for dropdown menu */
+  }
+  
+  .dropdown-item {
+    color: #fff; /* White text color for dropdown items */
+  }
+  
+  .dropdown-item:hover,
+  .dropdown-item:focus {
+    background-color: #333; /* Darker background color for dropdown items on hover/focus */
+  }
+  
+  .navbar-toggler-icon {
+    color: #fff; /* White color for the toggler icon */
+  }
+  
+  .form-control {
+    background-color: #ffffff; /* Dark gray background color for search input */
+    color: #000000; /* White text color for search input */
+    border-color: #000000; /* White border color for search input */
+  }
+  
+  .form-control:focus {
+    background-color: #fffdfd; /* Darker background color for search input on focus */
+    border-color: #fff; /* White border color for search input on focus */
+  }
+  
+  .btn-outline-success {
+    color: #2652e2; /* White text color for search button */
+    border-color: #28a745; /* Border color for search button */
+  }
+  
+  .btn-outline-success:hover,
+  .btn-outline-success:focus {
+    color: #28a745; /* Text color on hover/focus for search button */
+    background-color: transparent; /* Transparent background on hover/focus for search button */
+  }
+  
