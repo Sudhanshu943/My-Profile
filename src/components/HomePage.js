@@ -10,7 +10,7 @@ function HomePage() {
     <div className="homePageBackground">
       <nav className="navbar navbar-expand-lg bg-transparent">
         <div className="container-fluid bg-transparent">
-          <a className="navbar-brand text-white" href="/">Sudhanshu Thapa</a>
+          <a className="navbar-brand " href="/">Sudhanshu Thapa</a>
           <button className="navbar-toggler text-white" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span className="navbar-toggler-icon"></span>
           </button>
